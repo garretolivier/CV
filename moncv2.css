@@ -1,0 +1,63 @@
+/*couleurs de fond*/
+body{
+  background-color: #666565;
+  cursor: url(images/Alternate.cur), pointer;
+}
+.coordonnees{
+  color: white;
+  text-align: center;
+  line-height: 14px;
+  margin-top: 7px;
+}
+.cvpapier{
+  text-align:;
+}
+.prenom_nom{
+  margin-top: 10px;
+  color: white;
+  text-shadow: 1px 1px black;
+  font-family: 'Cabin', sans-serif;
+}
+.job{
+  box-sizing: border-box;
+  color: black;
+  text-shadow: 1px 1px white;
+  font-family: 'Cabin', sans-serif;
+}
+.line {
+  text-align: center;
+  border: 1px solid white;
+  width: 100%;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.bouton {
+  text-align: center;
+}
+.experiences {
+  text-align: center;
+}
+.mes_formations{
+  text-align: center;
+}
+.qualites{
+  text-align: center;
+}
+#competences{
+  text-align: center;
+}
+.CSS{
+  text-align: center;
+}
+.progress{
+  width: 20%
+}
+.images{
+  width: 5%
+}
+.imagescss{
+  width: 4%
+}
+#experiences{
+  text-align: center;
+}
