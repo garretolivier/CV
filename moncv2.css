@@ -36,31 +36,46 @@ body{
 }
 .experiences {
   text-align: center;
+  text-decoration: underline;
+  padding-bottom: 2%;
 }
-.mes_formations{
+.competences{
   text-align: center;
-}
-.qualites{
-  text-align: center;
-}
-#competences{
-  text-align: center;
+  padding-bottom: 2%;
+  text-decoration: underline;
 }
 .CSS{
   text-align: center;
 }
-.progress{
-  width: 20%
-}
 .images{
-  width: 5%
+  width: 5%;
 }
 .imagescss{
-  width: 4%
+  width: 4%;
 }
 #experiences{
   text-align: center;
 }
 .centre{
   text-align: center;
+}
+.corp_exp{
+  text-align: center;
+}
+.title_formation{
+  text-align: center;
+  padding-bottom: 2%;
+  text-decoration: underline;
+}
+.corp_formations{
+  text-align: center;
+}
+.title_qualites{
+  text-align: center;
+  padding-bottom: 2%;
+  text-decoration: underline;
+}
+.corp_qualites{
+  text-align: center;
+  padding-bottom: 2%;
 }
